@@ -24,12 +24,5 @@ public class ValidatePin {
     	}else {
     		System.out.println("Pin correct! Access granted!");
     	}
-    	
-    	
-    	
-    	
-    	
-    	
-    	
     }
 }
